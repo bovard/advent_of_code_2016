@@ -18,6 +18,3 @@ for inst in instructions:
     current = current.add(direction, n)
 
 print start.distance_to_loc(current)
-
-
-

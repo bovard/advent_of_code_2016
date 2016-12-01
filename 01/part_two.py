@@ -25,10 +25,3 @@ for inst in instructions:
             exit(0)
         else:
             visited.append(current)
-
-
-
-
-
-
-
