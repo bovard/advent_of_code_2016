@@ -9,7 +9,7 @@ Example Directions:
 ```
 L1, R2
 ```
-You would end up one square West, and two squares North of where you started.
+You would end up one square West, and two squares North of where you started. Your answer would be 3
 
 ### Part 2
 Follow the same instrutions as in part 1, but the first time you cross your old path, stop and report the distance back to the start.
