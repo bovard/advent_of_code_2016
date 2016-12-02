@@ -15,7 +15,7 @@ for inst in instructions:
     lr = inst[0]
     n = int(inst[1:])
 
-    # turn left
+    # turn left or right
     if lr == 'L':
         direction = Direction.rotate_left(direction)
     elif lr == 'R':
