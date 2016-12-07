@@ -5,8 +5,6 @@ with open('input.txt') as f:
 does = 0
 
 for line in instructions:
-    to_match_inside = []
-    they_match = False
     is_outside = True
     outside = False
     inside = False
