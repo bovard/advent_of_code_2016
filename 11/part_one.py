@@ -18,7 +18,7 @@ def get_moves(items):
     """
     moves = 0
     while items[-1] != sum(items):
-        print items
+        # print moves, items
         lowest_floor = 0
         while items[lowest_floor] == 0:
             lowest_floor += 1
