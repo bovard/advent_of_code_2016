@@ -1,9 +1,5 @@
-
-
-
 items_part_one = [4, 2, 4, 0]
 items_part_two = [8, 2, 4, 0]
-
 
 def get_moves(items):
     """
